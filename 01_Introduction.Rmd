@@ -36,4 +36,39 @@ In this first lecture I'll talk a little about the lure of pushing data into Exc
 
 ---
 
+## General thoughts on spreadsheets for Science
 
+### Why move from the comfort of a tool like Excel to the scary world of programming?
+
+-  Very few people have actually been trained in the use of Excel
+  -  Do you use lookup tables?  
+  -  Do you understand SUMPRODUCT?
+-  Some confusion with formulae
+  -  6 Excel formulae to calculate standard deviation
+-  Use of cut-and-paste is **VERY** dangerous and is a constant source of error
+-  Last significant change in VBA was around 2000.
+-  Spreadsheets were never desgned for scientific use, rather for finance.
+
+???
+Several examples of Excel errors
+Reliability: Panko’s analysis of 13 field audits suggested that 94% of spreadsheets contained errors and 5.2% of cells were questionable. (Stephen G. Powell, Kenneth R. Baker and Barry Lawson, 12/01/2007. “A Critical Review of the Literature on Spreadsheet Errors”. Tuck School of Business at Darthmouth College).
+The report on J.P. Morgan Chase $6 billion derivatives trading loss points to an unnamed overworked staffer in London who copied and pasted the wrong figures into an Excel spreadsheet, throwing the firm’s risk models out of whack.
+One in five papers published genetics papers from 2005-2015 (3600 papers, 18 journals) contain errors due to Excel autoformatting (Genome Biology, 2016, 17, 177).
+
+---
+
+## Excel limitations for analyzing data
+
+-  Reproducibility
+  -  Ability to reuse what's been done before
+-  Version control
+  -  Keep a single copy containing all development history
+-  Testing
+  -  Without built-in tests can you be sure that your analyses are correct?
+-  Maintainability
+  -  Change and update with ease
+-  Accuracy
+  -  Excel has some curious issues with numerical accuracy
+
+???
+In general, using a computer language to analyze data as opposed to Excel overcomes all these limitations.  Excel 2016 has, in fact, incorporated version control but we currently use Excel 2010.
