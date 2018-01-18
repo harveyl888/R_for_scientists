@@ -1,0 +1,28 @@
+---
+title: "Introductory R For Scientists"
+subtitle: "01 - Introduction"
+author: "Harvey Lieberman"
+date: "18 January 2018"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: inverse, center, middle
+
+# Why should I invest time in this?
+
+---
+
+# 01 - Introduction
+
+### Can't I just keep using Excel?
+### What is data science?
+### What is R?
+### Getting started with R
+
+--
