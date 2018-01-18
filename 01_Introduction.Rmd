@@ -16,6 +16,10 @@ class: inverse, center, middle
 
 # Why should I invest time in this?
 
+
+???
+As scientists we're constantly generating data.  Although we have some systems in place to assist in archiving data, much of what we produce goes through a process of emailing Excel output.  I hope that over the next few lectures I can show you that this is poor practice and I'll provide you with an alternative which, will free up time and make your analyses more robust.
+
 ---
 
 # 01 - Introduction
@@ -25,4 +29,9 @@ class: inverse, center, middle
 ### What is R?
 ### Getting started with R
 
---
+???
+In this first lecture I'll talk a little about the lure of pushing data into Excel, what data science is and introduce a computer language called R.
+
+---
+
+
