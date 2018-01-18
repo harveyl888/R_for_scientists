@@ -29,7 +29,7 @@ As scientists we're constantly generating data.  Although we have some systems i
 ### What is R?
 ### Getting started with R
 
-![](./images/01-Introduction/pic_faces.png)
+![](https://github.com/harveyl888/R_for_scientists/raw/master/images/01-Introduction/pic_faces.png)
 
 ???
 In this first lecture I'll talk a little about the lure of pushing data into Excel, what data science is and introduce a popular computer language called R.
