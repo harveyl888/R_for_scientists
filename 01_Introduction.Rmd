@@ -12,6 +12,14 @@ output:
       countIncrementalSlides: false
 ---
 
+# The Seven Scariest Words In Science
+
+## But We've Always Done It This Way
+
+![](https://github.com/harveyl888/R_for_scientists/raw/master/images/01-Introduction/openmind.png)
+
+---
+
 class: inverse, center, middle
 
 # Why should I invest time in this?
